@@ -12,4 +12,7 @@ import Foundation
 //학생정보 저장용 딕셔너리
 var student: [String:[String]] = [:]
 
+//함수
+
+//전체 구조
 
