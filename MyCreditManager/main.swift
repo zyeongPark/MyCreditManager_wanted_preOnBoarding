@@ -16,6 +16,3 @@ var student: [String:[String]] = [:]
 
 //전체 구조
 
-var input = readline()!
-switch input{
-}
