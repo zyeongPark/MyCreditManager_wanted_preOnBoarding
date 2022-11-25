@@ -155,7 +155,7 @@ while true{
 print("프로그램을 종료합니다...")
 
 
-//딕셔너리 접근연습
+//array 인덱스 접근연습
 import Foundation
 
 var input = ["a","b","c","d","e"]
