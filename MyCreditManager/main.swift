@@ -18,7 +18,4 @@ var student: [String:[String]] = [:]
 
 var input = readline()!
 switch input{
-    case :"1"{
-    
-    }
 }
