@@ -15,4 +15,8 @@ import Foundation
 var student: [String:[String]] = [:]
 
 //전체 구조
+//책임을 쪼개면서 프로젝트를 구성하자.
 
+while true{
+    
+}

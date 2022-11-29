@@ -104,7 +104,7 @@ while true{
                                     var idx = value.firstIndex(of:val)! //과목 위치 확인
                                     var index = idx + 1 //과목 다음 위치에 있는 점수 인덱스 확인
                                     print(value)
-                                    !!여기서 접근 실패 & 코드 문제점 깨달음 -> 너무 길고 뒤죽박죽이라 읽기가 어렵다... 
+                                    //!!여기서 접근 실패 & 코드 문제점 깨달음 -> 너무 길고 뒤죽박죽이라 읽기가 어렵다... 
 
                                 }else{//없다면 추가해주기
                                     studentDict.updateValue([String(subject),String(grade)], forKey: String(studentName))
