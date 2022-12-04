@@ -18,5 +18,7 @@ var student: [String:[String]] = [:]
 //책임을 쪼개면서 프로젝트를 구성하자.
 
 while true{
-    
+    switch{
+        case 
+    }
 }
