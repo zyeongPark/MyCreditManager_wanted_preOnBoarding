@@ -20,8 +20,11 @@ var student: [String:[String]] = [:]
 var input = readLine()!
 while true{
     switch input{
-    case: "1"{
-        
-    }
+    case "1":
+        print("a")
+    case "2":
+        print("b")
+    default:
+        print("reinput")
     }
 }
