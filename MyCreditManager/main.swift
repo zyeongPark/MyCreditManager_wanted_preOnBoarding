@@ -25,6 +25,6 @@ while true{
     case "2":
         print("b")
     default:
-        print("reinput")
+        print("다시 입력하세요")
     }
 }
