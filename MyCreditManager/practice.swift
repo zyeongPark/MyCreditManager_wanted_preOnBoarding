@@ -81,6 +81,7 @@ while true{
                 //맞게 작성했는지 확인,
                 if inputGrade.count != 3{
                     let result = "입력이 잘못되었습니다. 다시 확인해주세요. "
+                    
                     return result
                 }
                 //맞게 작성했다면, 성적 저장하기
